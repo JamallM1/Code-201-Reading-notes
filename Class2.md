@@ -25,6 +25,9 @@
 - the ; tells JS when the step is complete 
 - Variables are used to store info used in the script
 
- **Loops** 
+ **Loops and Conditions** 
 
 - a sequence of instructions that is continually repeated until a certain condition is met
+- a condition is what to do in a certain situation (if , then)
+- an expression returns a value
+- Decisions decide which line to run next
