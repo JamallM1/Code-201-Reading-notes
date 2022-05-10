@@ -24,3 +24,7 @@
 - Each script starts on a new line
 - the ; tells JS when the step is complete 
 - Variables are used to store info used in the script
+
+ **Loops** 
+
+- a sequence of instructions that is continually repeated until a certain condition is met
