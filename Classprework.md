@@ -16,3 +16,8 @@
 ### Designs
 - for Designs it's important to know who your website is targeting and DDC, Define, Design, Code.
 - For designs Wireframe is used as an outline for the website so it is easier for the Developers to code exactly what they see.
+
+## Things I want to know more
+- I want to understand what the day to day is like for a software developer/engineer
+- How what I'm learning in this class will translate to the Developer industry 
+- I want to know what companies look for in technical skills
