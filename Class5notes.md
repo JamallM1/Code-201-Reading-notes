@@ -6,3 +6,7 @@
 - photos are best saved as jpegs
 - There are three ways to specify color in CSS RGB,HEX,and Color names
 - you can use pseudo-classes to change the style of an element whe a user hovers or clicks on text
+
+## Things I want to know
+- I want to know how to style my page to look more profesional 
+- the industry standard on when it comes to choosing colors for websites
